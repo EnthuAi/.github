@@ -19,4 +19,5 @@ Please ensure that the resources you add are relevant, high-quality, and freely 
 ## Connect with us
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/theenthuai)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Segoe+UI+&size=16&pause=1000&color=000000&width=650&lines=+We+appreciate+your+interest+and+contributions+to+the+EnthuAi+repository.+;Let's+learn+and+grow+together!%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Segoe+UI+&size=16&pause=1000&color=48aaad&width=650&lines=+We+appreciate+your+interest+and+contributions+to+the+EnthuAi+repository.+;Let's+learn+and+grow+together!%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
+
