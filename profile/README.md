@@ -6,7 +6,13 @@ This project aims to provide a comprehensive list of learning materials for the 
 
 ## Contribution
 
-We welcome contributions from the EnthuAi to make this repository even more valuable. If you would like to add new resources or suggest improvements.
+We welcome contributions from the AI community to make this repository even more valuable. If you would like to add new resources or suggest improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your contribution.
+3. Add or modify the relevant resources.
+4. Commit your changes and push them to your forked repository.
+5. Submit a pull request, explaining the changes you made.  
 Please ensure that the resources you add are relevant, high-quality, and freely accessible to the community.
 
 
